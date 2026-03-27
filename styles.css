@@ -205,7 +205,7 @@ p{
 
   border: 1px solid rgba(0, 0, 0, 0.05);
 
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+  box-shadow: var(--gradient);
 
   transition: 0.3s;
 }
